@@ -6,5 +6,6 @@
   <a href="https://discord.gg/gnaa">Discord</a> &nbsp;&bullet;&nbsp;
   <a href="mailto:us@gnaa.gay">Email</a> &nbsp;&bullet;&nbsp;
   <a href="https://gnaa.gay">Website</a> &nbsp;&bullet;&nbsp;
+  <a href="https://gnaa.gay/gayporn.txt">GPA</a> &nbsp;&bullet;&nbsp;
   <a href="https://gnaa.gay/retarddb">Retard DB</a>
 </span>
